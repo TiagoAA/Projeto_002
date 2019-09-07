@@ -78,5 +78,9 @@ https://guides.github.com/features/mastering-markdown
 #3
 http://embedyoutube.org/
 
-#4
-https://www.youtube.com/watch?v=T70t3mDiwvg&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj&index=11
+### Adicionar Vídeo
+Usando referencia #3
+
+[![Projeto exemplo](http://img.youtube.com/vi/T70t3mDiwvg/0.jpg)](http://www.youtube.com/watch?v=T70t3mDiwvg "Vídeo tutorial")
+
+
