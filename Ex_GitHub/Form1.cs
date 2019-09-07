@@ -20,6 +20,7 @@ namespace Ex_GitHub
         private void button1_Click(object sender, EventArgs e)
         {
             Console.WriteLine("teste");
+            label1.Invoke(new Action(() => {label1.Text = "Olá Mundo";}));
         }
     }
 }
