@@ -16,5 +16,10 @@ namespace Ex_GitHub
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("teste");
+        }
     }
 }
