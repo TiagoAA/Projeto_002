@@ -241,5 +241,7 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 
-#ignorar pasta
+#ignorar pasta adicionais 
+Pasta1/
 Pasta2/
+./Ex_GitHub/bin/
